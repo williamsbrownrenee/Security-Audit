@@ -18,7 +18,10 @@ The scope and goals of the security audit for Botium Toys is to improve the comp
 
 
 ## Steps
+
 Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of the sensitive information: Least privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
  To address gaps in compliance they need to implement some controls such as least privilege, separation of duties, and encryption. The company needs to properly classify assets to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
 
+ 
 
+[Controls and compliance checklist 2.pdf](https://github.com/user-attachments/files/18751624/Controls.and.compliance.checklist.2.pdf)
